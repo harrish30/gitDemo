@@ -1,3 +1,0 @@
-This is a new file, new line.
-This is the second line in the new file.
-
