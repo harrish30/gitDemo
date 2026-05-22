@@ -4,5 +4,6 @@ public class Main
     {
         System.out.print("Hello world");
         System.out.println("\nAddition = " + Calculator.add(10,15));
+        System.out.println("\nInterest = " + InterestCalculator.calculate(100000,8,5));
     }
 }
