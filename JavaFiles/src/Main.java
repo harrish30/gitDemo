@@ -6,5 +6,6 @@ public class Main
         System.out.println("\nAddition = " + Calculator.add(10,15));
         System.out.println("\nCompound Interest = " + CompoundInterestCalculator.calculate(100000,8,5));
         System.out.println("\nSIP return : " + SIPCalculator.calculate(10000, 12, 12, 20));
+        HomeLoanCalculator.homeLoanCalculator(20000000, 5000000, 9, 20);
     }
 }
